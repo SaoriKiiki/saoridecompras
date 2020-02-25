@@ -5,20 +5,14 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version 6
 
-* System dependencies
+* System dependencies Catalina OSX
 
 * Configuration
 
-* Database creation
+* Database creation Postgres
 
-* Database initialization
+* Database initialization $brew services start postgresql
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
